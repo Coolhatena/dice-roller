@@ -1,6 +1,6 @@
 # dice_roller
 
-A new Flutter project.
+A virtual rollable D6 Dice.
 
 ## Getting Started
 
